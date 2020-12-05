@@ -17,3 +17,10 @@ Kyle - Pull that data and illustrate through tableau and MongoDB Database.
 
 
 Jacob - Collect data on unemployment and basic ecomnic status using APIs, to be pulled, analyzed, and immplemented for analysis.
+
+
+
+
+
+
+Trey - ?
