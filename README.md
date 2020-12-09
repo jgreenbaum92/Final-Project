@@ -23,4 +23,4 @@ Jacob - Collect data on unemployment and basic ecomnic status using APIs, to be 
 
 
 
-Trey - ?
+Trey - Use pandas and matplotlib to create regression models of the data.
