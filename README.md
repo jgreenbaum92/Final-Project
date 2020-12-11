@@ -9,14 +9,14 @@ We would like to Illustrate unemployment data in relation to the current data pr
 
 
 
-Kyle - Pull that data and illustrate through tableau and PowerRVI.
+Kyle - Pull that data to to immplement the statistical difference between COVID cases based and the ecomnomic traaggedy.
 
 
 
 
 
 
-Jacob - Collect data on unemployment and basic ecomnic status using APIs, to be pulled, analyzed, and immplemented for analysis.
+Jacob - Collect data on unemployment and basic ecomnic status, to be pulled, analyzed, and immplemented for analysis, using tableau.
 
 
 
