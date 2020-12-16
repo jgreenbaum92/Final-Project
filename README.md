@@ -17,6 +17,7 @@ Kyle - Pull that data to to immplement the statistical difference between COVID 
 
 
 Jacob - Collect data on unemployment and basic ecomnic status, to be pulled, analyzed, and immplemented for analysis, using tableau.
+Tableau Link: https://public.tableau.com/profile/jacob.greenbaum7736#!/vizhome/StateData2000-2019/AnnualPopulationbyState
 
 
 
