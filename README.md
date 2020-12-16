@@ -9,7 +9,7 @@ We would like to Illustrate unemployment data in relation to the current data pr
 
 
 
-Kyle - Pull that data to to immplement the statistical difference between COVID cases based on the ecomnomic tragedy.
+Kyle - Pull that data to to immplement the statistical difference between COVID cases based on the ecomnomic tragedy. Using Google Presentation as evidence.
 
 
 
